@@ -1390,6 +1390,15 @@ a.newer-posts:hover {
   opacity: .8;
 }
 
+/*---------------------About Me Styles-----------------*/
+.about-me .about-title {
+  font-size:30px;
+  color: #c30;
+}
+.about-me .interests {
+  background-color: #d0e4f5;
+  margin-left:20px;
+}
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
