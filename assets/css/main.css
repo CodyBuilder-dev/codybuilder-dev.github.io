@@ -935,6 +935,14 @@ table tfoot td {
   padding: 20px 10px;
   background-color: #ffffff;
 }
+.blog-title {
+  font-weight: bolder;
+}
+
+.blog-pages .blog-subpages {
+  margin-left:10px;
+  font-size:10px;
+}
 
 .about {
   margin: 0 0 40px;
