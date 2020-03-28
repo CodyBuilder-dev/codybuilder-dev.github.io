@@ -20,9 +20,9 @@ SQLD, ADsP도 있었지만, 다른 일정들도 있고 한번에 3개를 동시�
 문제집의 경우에는 개념을 복습하는 용도로는 괜찮으나, 유형 자체는 시험과 100% 일치하지는 않았다. (실제로 나는 개념만 보기에도 시간이 모자라 문제집을 1/4정도 밖에 못 풀고 들어갔는데도 합격했다. 여러분은 이러지 마세요...)
 
 
-<h5> 개념서 : 한국 데이터진흥원 공식 웹사이트 [링크](http://www.dbguide.net/db.db?cmd=view&boardUid=12720&boardConfigUid=9&boardIdx=25&boardStep=1)</h5>
-<h5> 문제집 : 데이터 아키텍처 자격검정 실전문제(공식) [링크](http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=1864240161&gclid=Cj0KCQjw6_vzBRCIARIsAOs54z4wL4v3lE_9oHyhqF42gBnD7iskBCFraLFTzvVsyvCEa9N2I6o3AbkaAm23EALw_wcB&utm_term=&utm_campaign=%B1%B8%B1%DB%BC%EE%C7%CEPC+%C3%DF%B0%A1%C0%DB%BE%F7&utm_source=%B1%B8%B1%DB_PC_S_%BC%EE%C7%CE&utm_medium=%B0%CB%BB%F6) </h5>
+**개념서 : 한국 데이터진흥원 공식 웹사이트 [링크](http://www.dbguide.net/db.db?cmd=view&boardUid=12720&boardConfigUid=9&boardIdx=25&boardStep=1)**
 
+**문제집 : 데이터 아키텍처 자격검정 실전문제(공식) [링크](http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=1864240161&gclid=Cj0KCQjw6_vzBRCIARIsAOs54z4wL4v3lE_9oHyhqF42gBnD7iskBCFraLFTzvVsyvCEa9N2I6o3AbkaAm23EALw_wcB&utm_term=&utm_campaign=%B1%B8%B1%DB%BC%EE%C7%CEPC+%C3%DF%B0%A1%C0%DB%BE%F7&utm_source=%B1%B8%B1%DB_PC_S_%BC%EE%C7%CE&utm_medium=%B0%CB%BB%F6)**
 ## 시험 기간
 자격증 시험의 경우 후기를 찾아보면 누구는 2주 걸리고, 누구는 4주 걸리고, 누구는 3일만에 합격하고... 편차가 너무 커 일반화하기가 힘들다.  
 이는 전공/비전공 차이로 인한 배경지식도 다르고, 읽어나가는 속도도 다르기 때문인데, 이런 점들이 고려되어 있지 않아 내가 예상시험기간을 계산하기가 굉장히 어려웠다.  
