@@ -1,0 +1,36 @@
+---
+layout: post
+title: 뒤늦게 쓰는 제 41회 DAsP(데이터아키텍처 준전문가) 합격후기
+date: 2020-03-28 19:59:00 +0900
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: DAsP.PNG # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [DAsP, Certificate, Review]
+---
+## 들어가기 전에
+데이터 관련해서 SSAFY에서 공부한 것들도 확인해보고, 내 스스로 학습성과를 점검하기 위해 19년 12월 41회 DAsP시험에 응시하게 되었다  
+SQLD, ADsP도 있었지만, 다른 일정들도 있고 한번에 3개를 동시에 치는 것은 너무 무리라 판단해 나눠서 치르기로 했다  
+(이때는 20년 상반기 시험이 통으로 날아갈 거라곤 생각도 못 했다... 그놈의 코로나...)
+
+## 교재 선택
+한국데이터진흥원에서 진행하는 **데이터 3종(ADP,DAP,SQLP)**은 나름대로 준비하는 사람이 꽤 있어서, 정처기만큼은 아니지만 검색하면 이미 정보가 꽤 많이 정리되어 있다.  
+대부분 개념서로 50000원짜리 **공식 개념서**를 선택하고 문제집은 11000원짜리 **공식 문제집**을 선택하는 것 같다.  
+나도 다른 사람들 후기를 보고 대비한 것이라 크게 특별히 다른 교재를 선택하지는 않았고, 공식 교재로 전부 진행했다. 단, 개념서는 솔직히 너무 비싸서 개념서 내용이 그대로 들어있는 **공식 홈페이지 설명**으로 대체했다.  
+(소위 **킬러 문제**라는 것들이 개념서 구석에 몰래 숨어있는 내용들 묻는 문제라 공식교재로 대비하는 것이 가장 괜찮았던 것 같다)  
+문제집의 경우에는 개념을 복습하는 용도로는 괜찮으나, 유형 자체는 시험과 100% 일치하지는 않았다. (실제로 나는 개념만 보기에도 시간이 모자라 문제집을 1/4정도 밖에 못 풀고 들어갔는데도 합격했다. 여러분은 이러지 마세요...)
+
+
+<h5> 개념서 : 한국 데이터진흥원 공식 웹사이트 [링크](http://www.dbguide.net/db.db?cmd=view&boardUid=12720&boardConfigUid=9&boardIdx=25&boardStep=1)</h5>
+<h5> 문제집 : 데이터 아키텍처 자격검정 실전문제(공식) [링크](http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=1864240161&gclid=Cj0KCQjw6_vzBRCIARIsAOs54z4wL4v3lE_9oHyhqF42gBnD7iskBCFraLFTzvVsyvCEa9N2I6o3AbkaAm23EALw_wcB&utm_term=&utm_campaign=%B1%B8%B1%DB%BC%EE%C7%CEPC+%C3%DF%B0%A1%C0%DB%BE%F7&utm_source=%B1%B8%B1%DB_PC_S_%BC%EE%C7%CE&utm_medium=%B0%CB%BB%F6) </h5>
+
+## 시험 기간
+자격증 시험의 경우 후기를 찾아보면 누구는 2주 걸리고, 누구는 4주 걸리고, 누구는 3일만에 합격하고... 편차가 너무 커 일반화하기가 힘들다.  
+이는 전공/비전공 차이로 인한 배경지식도 다르고, 읽어나가는 속도도 다르기 때문인데, 이런 점들이 고려되어 있지 않아 내가 예상시험기간을 계산하기가 굉장히 어려웠다.  
+그래서 나는 시간보다는 분량을 기준으로 설명하고자 한다.  **합격을 위해 공부해야 하는 최소 기준점**을 **문제를 봤을 때 챕터별로 무슨 내용이 있었는지 떠올릴 수 있을 정도**라고 생각하고, **개념서 모든 챕터별 최소 2회독**정도면 충분히 기준점을 넘을 수 있다고 생각한다.  
+
+## 시험 결과
+![]({{site.url}}/assets/img/DAsP_result.PNG)
+
+60점 기준에 72점으로 합격했다. 보기가 4개가 출제되는데, 개념서만 제대로 읽고 들어가도 4개 중에 최소 2개는 확실히 지울 수 있도록 출제된 것 같다.
+
+당분간은 프로젝트에 집중하고, 하반기에 시행되는 나머지 자격증 2개(ADsP,SQLD)도 시간을 내서 준비할 계획이다.
