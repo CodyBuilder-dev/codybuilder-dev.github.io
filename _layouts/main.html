@@ -4,6 +4,9 @@ layout: default
 
 <aside class="sidebar">
   <header>
+    <div class="blog-title">
+      운동하는 프로그래머
+    </div>
     <div class="about">
       <div class="cover-author-image">
         <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
@@ -12,7 +15,14 @@ layout: default
       <p>{{site.about-author}}</p>
     </div>
   </header> <!-- End Header -->
-  <a href="{{site.baseurl}}/tags/">Tags</a>
+  <div class="blog-pages">
+    <a>Posts</a>
+    <a class="blog-subpages">Category</a>
+    <a class="blog-subpages" href="{{site.baseurl}}/tags/">Tag</a>
+    <a>Projects</a>
+    <a>About Me</a>
+    
+  </div>
   <footer>
     <section class="contact">
       <h3 class="contact-title">Contact me</h3>
