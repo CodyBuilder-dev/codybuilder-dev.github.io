@@ -5,7 +5,8 @@ date: 2020-03-28 20:48:20 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: stock_bars.PNG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Finance, Stock]
+categories: System Trading
+tags: [Stock,Quant Analysis,Backtest]
 ---
 ## 들어가기 전에
 주식 데이터를 이용해 백테스트를 할 때, 종종  <b>매우 기본적이면서 중요한 내용을 깊게 생각해보지 않고 넘어가는 경우</b>가 있다.  

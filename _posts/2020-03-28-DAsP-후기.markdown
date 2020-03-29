@@ -5,7 +5,8 @@ date: 2020-03-28 19:59:00 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: DAsP.PNG # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [DAsP, Certificate, Review]
+categories: Review
+tags: [DAsP, Certificate]
 ---
 ## 들어가기 전에
 데이터 관련해서 SSAFY에서 공부한 것들도 확인해보고, 내 스스로 학습성과를 점검하기 위해 19년 12월 41회 DAsP시험에 응시하게 되었다  
