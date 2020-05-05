@@ -9,8 +9,7 @@ permalink: /projects/
     <p>현재까지 수행한 프로젝트들입니다</p>
     {% for project in site.data.project-list %}
     <div class=project>
-        <p class=project-title>{{ project.Name }}</p>
-        <p class=project-period>{{ project.Period}}</p>
+        <p class=project-text>{{ project.Name }},{{ project.Period}} </p>
         <p class=project-link>
             <a href="{{ project.Link }}"><i class="fa fa-github" aria-hidden="true"></i></a>
         </p>
