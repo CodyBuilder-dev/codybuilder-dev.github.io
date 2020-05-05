@@ -1389,6 +1389,11 @@ a.newer-posts:hover {
   text-decoration: underline;
   opacity: .8;
 }
+/*---------------------Projects Styles-----------------*/
+.projects .projects-title {
+  font-size:30px;
+  color: #c30;
+}
 
 /*---------------------About Me Styles-----------------*/
 .about-me .about-title {
